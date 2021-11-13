@@ -449,3 +449,9 @@ body {
     text-align: center;
   }
 }
+
+@media (max-width: 500px) {
+  .nav {
+    font-size: 11px;
+  }
+}
