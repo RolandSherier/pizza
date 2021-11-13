@@ -411,6 +411,7 @@ body {
 
   .btn-start {
     background-size: contain;
+    font-size: 20px;
   }
 
   .number {
